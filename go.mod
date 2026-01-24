@@ -5,10 +5,10 @@ go 1.21.4
 require (
 	github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0
 	github.com/cloudflare/circl v1.4.0
+	github.com/dharak36/websocket v0.0.0-20230102085308-6e80a1d1c754
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344
 	github.com/golang/mock v1.7.0-rc.1
 	github.com/google/go-cmp v0.6.0
-	github.com/gorilla/websocket v1.5.3
 	github.com/miekg/dns v1.1.62
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.8.0
